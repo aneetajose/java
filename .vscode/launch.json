@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pattern_2",
+            "request": "launch",
+            "mainClass": "pattern_2",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "Pat_2",
+            "request": "launch",
+            "mainClass": "pattern_pgms.Pat_2",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_2",
+            "request": "launch",
+            "mainClass": "pattern_pgms.Pattern_2",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exception_Handling_TCF",
+            "request": "launch",
+            "mainClass": "Exception_Handling_TCF",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "Exception_Handling_TCT",
+            "request": "launch",
+            "mainClass": "Exception_Handling_TCT",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "FileHandling_ReaderWriter",
+            "request": "launch",
+            "mainClass": "FileHandling_ReaderWriter",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "FileHandling_TextFile",
+            "request": "launch",
+            "mainClass": "FileHandling_TextFile",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "FileManagement",
+            "request": "launch",
+            "mainClass": "FileManagement",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "Synchronization",
+            "request": "launch",
+            "mainClass": "Synchronization",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "pattern_1",
+            "request": "launch",
+            "mainClass": "pattern_pgms.pattern_1",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "pattern_2",
+            "request": "launch",
+            "mainClass": "pattern_pgms.pattern_2",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java_bb867cde"
+        },
+        {
+            "type": "java",
+            "name": "twin_prime",
+            "request": "launch",
+            "mainClass": "twin_prime",
+            "projectName": "java_bb867cde"
+        }
+    ]
+}

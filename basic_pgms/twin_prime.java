@@ -19,7 +19,7 @@ public class twin_prime
         n = in.nextInt();
         x = obj.prime(m);
         y = obj.prime(n);
-        if((x == 0) && ((m - n == 2) || (n - m == 2)))
+        if(((x == 0) && (y == 0)) && ((m - n == 2) || (n - m == 2)))
             System.out.println(m +" and "+ n +" are twin primes.");
         else
             System.out.println(m +" and "+ n +" are not twin primes.");

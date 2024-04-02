@@ -1,6 +1,6 @@
 package conceptual_pgms.searching;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class linear_search 
 {
